@@ -1,6 +1,6 @@
-# CVPR2017-Attention-Models
 Paper list.
-1 End-to-End Instance Segmentation with Recurrent Attention
+
+1 End-to-End Instance Segmentation with Recurrent Attention \
 2 Temporal Attention-Gated Model for Robust Sequence Classification
 3 Attention-Aware Face Hallucination via Deep Reinforcement Learning
 4 Dual Attention Networks for Multimodal Reasoning and Matching
