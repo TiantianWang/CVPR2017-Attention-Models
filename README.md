@@ -3,7 +3,7 @@ Paper list.
 
 |               |               |       |
 | ------------- |:-------------:| -----:|
-| 1      |  End-to-End Instance Segmentation <br> with Recurrent Attention  |[code](https://github.com/renmengye/rec-attend-public)|
+| 1      |  End-to-End Instance Segmentation <br> with Recurrent Attention  |[paper](https://arxiv.org/pdf/1605.09410v3.pdf)<br>[code](https://github.com/renmengye/rec-attend-public)|
 | 2     |Temporal Attention-Gated Model <br> for Robust Sequence Classification      |[code](https://github.com/wenjiepei/TAGM)|
 | 3 | Attention-Aware Face Hallucination <br>  via Deep Reinforcement Learning    |    |
 | 4      |  Dual Attention Networks <br>  for Multimodal Reasoning and Matching      |    |
